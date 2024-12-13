@@ -2,6 +2,7 @@ import sys
 from pathlib import Path
 
 def solve_part1(data):
+    
     return "hey"
 
 
