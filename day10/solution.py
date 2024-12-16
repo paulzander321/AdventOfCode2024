@@ -47,7 +47,6 @@ def solve_part2(data):
                 nextWaveCoordinates = set()
                 stepCount = 0
                 while len(waveCoordinates) > 0 and stepCount < 9:
-                    print(waveCoordinates)
                     stepCount += 1
                     for coord in waveCoordinates:
                         #up
